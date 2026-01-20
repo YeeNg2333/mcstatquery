@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Hypixel Network",
+    "address": "mc.hypixel.net",
+    "port": 25565,
+    "type": "java",
+    "category": "大型服务器",
+    "description": "全球最大的Minecraft小游戏服务器"
+  },
+  {
+    "id": 2,
+    "name": "CubeCraft Games",
+    "address": "play.cubecraft.net",
+    "port": 25565,
+    "type": "java",
+    "category": "小游戏",
+    "description": "流行的CubeCraft小游戏服务器"
+  },
+  {
+    "id": 3,
+    "name": "Mineplex",
+    "address": "us.mineplex.com",
+    "port": 25565,
+    "type": "java",
+    "category": "大型服务器",
+    "description": "知名Minecraft多人游戏服务器"
+  },
+  {
+    "id": 4,
+    "name": "PVP Land",
+    "address": "pvp.land",
+    "port": 25565,
+    "type": "java",
+    "category": "PVP",
+    "description": "PVP对战服务器"
+  },
+  {
+    "id": 5,
+    "name": "Minehut",
+    "address": "minehut.com",
+    "port": 25565,
+    "type": "java",
+    "category": "托管服务器",
+    "description": "免费的Minecraft服务器托管平台"
+  },
+  {
+    "id": 6,
+    "name": "Local Test Server",
+    "address": "localhost",
+    "port": 25565,
+    "type": "java",
+    "category": "测试",
+    "description": "本地测试服务器"
+  }
+]

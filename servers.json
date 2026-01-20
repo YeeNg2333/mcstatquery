@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "wxhn",
+    "address": "192.168.3.101",
+    "port": 1157,
+    "type": "java",
+    "category": "未分类",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "name": "23",
+    "address": "192.168.3.101",
+    "port": 1145,
+    "type": "java",
+    "category": "未分类",
+    "description": ""
+  }
+]
